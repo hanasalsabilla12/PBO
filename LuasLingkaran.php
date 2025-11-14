@@ -14,3 +14,4 @@ class LuasLingkaran{
 $lingkaran = new LuasLingkaran();
 $lingkaran->jari = 7;
 $lingkaran->tampil(); //panggil method
+?>
